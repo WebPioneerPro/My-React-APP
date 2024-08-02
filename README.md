@@ -33,8 +33,8 @@ Check out the live website: [Amazon Bestsellers](https://my-bestsellers-react-ap
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-github-username/amazon-bestsellers.git
-   cd amazon-bestsellers
+   git clone https://github.com/WebPioneerPro/My-React-APP.git
+   cd My-React-APP
    ```
 2. Install the dependencies:
 
